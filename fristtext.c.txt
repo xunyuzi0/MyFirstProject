@@ -1,7 +1,0 @@
-#include<stdio.h>
-int main()
-{
-	printf("Hello Word!");
-	printf("第一次线上更改代码");
-	return 0;
-}
